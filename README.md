@@ -9,6 +9,7 @@
 | [0178-rank-scores](https://github.com/fouziasharkar/LeetCode-Solutions/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/fouziasharkar/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/fouziasharkar/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/fouziasharkar/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/fouziasharkar/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/fouziasharkar/LeetCode-Solutions/tree/master/1258-article-views-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/fouziasharkar/LeetCode-Solutions/tree/master/1664-find-users-with-valid-e-mails) |
